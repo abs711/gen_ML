@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .notebook
-.artifacts
+.artifact
 .env
 .venv
 env/
