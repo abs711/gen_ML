@@ -9,7 +9,6 @@ from src.pipelines.predict_pipeline import CustomData, PredictPipeline
 
 
 application=Flask(__name__)
-
 app = application
 
 @app.route('/')
